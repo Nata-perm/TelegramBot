@@ -1,2 +1,2 @@
 # TelegramBot
-Telegram Bot
+TeleBot for currancy exchange
